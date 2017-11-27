@@ -1,0 +1,121 @@
+_XSERVTransmkdir: ERROR: euid != 0,directory /tmp/.X11-unix will not be created.
+
+Xvnc TigerVNC 1.5.0 - built Jul 12 2015 15:34:23
+Copyright (C) 1999-2015 TigerVNC Team and many others (see README.txt)
+See http://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 11501000, The X.Org Foundation
+
+Initializing built-in extension VNC-EXTENSION
+Initializing built-in extension Generic Event Extension
+Initializing built-in extension SHAPE
+Initializing built-in extension MIT-SHM
+Initializing built-in extension XInputExtension
+Initializing built-in extension XTEST
+Initializing built-in extension BIG-REQUESTS
+Initializing built-in extension SYNC
+Initializing built-in extension XKEYBOARD
+Initializing built-in extension XC-MISC
+Initializing built-in extension SECURITY
+Initializing built-in extension XINERAMA
+Initializing built-in extension XFIXES
+Initializing built-in extension RENDER
+Initializing built-in extension RANDR
+Initializing built-in extension COMPOSITE
+Initializing built-in extension DAMAGE
+Initializing built-in extension MIT-SCREEN-SAVER
+Initializing built-in extension DOUBLE-BUFFER
+Initializing built-in extension RECORD
+Initializing built-in extension Present
+Initializing built-in extension DRI3
+Initializing built-in extension X-Resource
+Initializing built-in extension XVideo
+Initializing built-in extension XVideo-MotionCompensation
+Initializing built-in extension GLX
+
+Mon Nov 27 14:46:39 2017
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      created VNC server for screen 0
+/usr/bin/startxfce4: X server already running on display :1
+
+Mon Nov 27 14:46:41 2017
+ Connections: accepted: 192.168.40.5::38336
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+Smart Common Input Method 1.4.14
+
+Launching a SCIM process with x11...
+Loading simple Config module ...
+Creating backend ...
+Loading x11 FrontEnd module ...
+GTK Panel of SCIM 1.4.14
+
+
+** (scim-panel-gtk:73): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+_IceTransmkdir: ERROR: euid != 0,directory /tmp/.ICE-unix will not be created.
+
+(xfsettingsd:100): libupower-glib-WARNING **: Couldn't connect to system bus: Failed to connect to socket /var/run/dbus/system_bus_socket: 没有那个文件或目录
+xfce4-panel: No window manager registered on screen 0. To start the panel without this check, run with --disable-wm-check.
+No window manager registered on screen 0. To start the xfdesktop without this check, run with --disable-wm-check.
+
+** (xfdesktop:96): WARNING **: Thumbnailer failed calling GetFlavors
+
+(xfsettingsd:100): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+Starting SCIM as daemon ...
+SCIM has been successfully launched.
+
+Mon Nov 27 15:51:32 2017
+ Connections: accepted: 192.168.40.5::38856
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+Mon Nov 27 15:51:45 2017
+ Connections: closed: 192.168.40.5::38336 (Clean disconnection)
+ EncodeManager: Framebuffer updates: 3716
+ EncodeManager:   RRE:
+ EncodeManager:     Solid: 240 rects, 5.57675 Mpixels
+ EncodeManager:            4.6875 KiB (1:4647.89 ratio)
+ EncodeManager:   ZRLE:
+ EncodeManager:     Bitmap RLE: 160 rects, 2.963 Mpixels
+ EncodeManager:                 7.5918 KiB (1:1524.82 ratio)
+ EncodeManager:     Indexed RLE: 3.295 krects, 20.2442 Mpixels
+ EncodeManager:                  991.109 KiB (1:79.8273 ratio)
+ EncodeManager:     Full Colour: 6.861 krects, 101.711 Mpixels
+ EncodeManager:                  14.9364 MiB (1:25.9819 ratio)
+ EncodeManager:   Total: 10.556 krects, 130.495 Mpixels
+ EncodeManager:          15.9163 MiB (1:31.2837 ratio)
+
+Mon Nov 27 15:53:39 2017
+ Connections: closed: 192.168.40.5::38856 (Clean disconnection)
+ EncodeManager: Framebuffer updates: 4
+ EncodeManager:   RRE:
+ EncodeManager:     Solid: 1 rects, 144 pixels
+ EncodeManager:            20 B (1:29.4 ratio)
+ EncodeManager:   ZRLE:
+ EncodeManager:     Indexed RLE: 2 rects, 65.68 kpixels
+ EncodeManager:                  193 B (1:1361.37 ratio)
+ EncodeManager:     Full Colour: 13 rects, 724.864 kpixels
+ EncodeManager:                  68.4424 KiB (1:41.3728 ratio)
+ EncodeManager:   Total: 16 rects, 790.688 kpixels
+ EncodeManager:          68.6504 KiB (1:44.9934 ratio)
+
+Mon Nov 27 15:54:42 2017
+ Connections: accepted: 192.168.40.5::38872
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
+
+(xfce4-terminal:553): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(Thunar:94): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(Thunar:94): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(Thunar:94): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(Thunar:94): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed

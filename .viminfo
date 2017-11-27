@@ -1,0 +1,281 @@
+# 这个 viminfo 文件是由 Vim 7.4 所产生。
+# 如果想要自行修改请特别小心！
+
+# 文件被写的时候 ‘encoding’ 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 命令行 历史记录 (从新到旧)：
+:wq
+:WQ
+:wq\
+:q
+
+# 查找字符串 历史记录 (从新到旧)：
+
+# 表达式 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 寄存器:
+""-	BLOCK	7
+		
+
+# 文件标记:
+'0  68  9  ~/Calc_test.py
+'1  15  17  ~/Calc_test.py
+'2  50  22  ~/Calc_test.py
+'3  71  13  ~/Calc_test.py
+'4  14  75  ~/Calc_test.py
+'5  26  17  ~/Calc_test.py
+'6  24  6  ~/Calc_test.py
+'7  16  15  ~/Calc_test.py
+'8  1  8  ~/Calc_test.py
+'9  40  27  ~/Calc_test.py
+
+# 跳转列表 (从新到旧):
+-'  68  9  ~/Calc_test.py
+-'  1  0  ~/Calc_test.py
+-'  15  17  ~/Calc_test.py
+-'  50  22  ~/Calc_test.py
+-'  71  13  ~/Calc_test.py
+-'  14  75  ~/Calc_test.py
+-'  26  17  ~/Calc_test.py
+-'  24  6  ~/Calc_test.py
+-'  16  15  ~/Calc_test.py
+-'  40  27  ~/Calc_test.py
+-'  39  3  ~/Calc_test.py
+-'  69  0  ~/test_line.py
+-'  1  0  ~/test_line.py
+-'  86  16  ~/test_line.py
+-'  59  23  ~/test_line.py
+-'  92  8  ~/test_line.py
+-'  24  14  ~/test_line.py
+-'  90  12  ~/test_line.py
+-'  101  14  ~/test_line.py
+-'  65  23  ~/test_line.py
+-'  64  23  ~/test_line.py
+-'  69  0  ~/test_line.py
+-'  1  0  ~/test_line.py
+-'  86  16  ~/test_line.py
+-'  59  23  ~/test_line.py
+-'  92  8  ~/test_line.py
+-'  24  14  ~/test_line.py
+-'  90  12  ~/test_line.py
+-'  101  14  ~/test_line.py
+-'  65  23  ~/test_line.py
+-'  64  23  ~/test_line.py
+-'  69  0  ~/test_line.py
+-'  1  0  ~/test_line.py
+-'  86  16  ~/test_line.py
+-'  59  23  ~/test_line.py
+-'  92  8  ~/test_line.py
+-'  24  14  ~/test_line.py
+-'  90  12  ~/test_line.py
+-'  101  14  ~/test_line.py
+-'  65  23  ~/test_line.py
+-'  64  23  ~/test_line.py
+-'  69  0  ~/test_line.py
+-'  1  0  ~/test_line.py
+-'  86  16  ~/test_line.py
+-'  59  23  ~/test_line.py
+-'  92  8  ~/test_line.py
+-'  24  14  ~/test_line.py
+-'  90  12  ~/test_line.py
+-'  101  14  ~/test_line.py
+-'  65  23  ~/test_line.py
+-'  64  23  ~/test_line.py
+-'  69  0  ~/test_line.py
+-'  1  0  ~/test_line.py
+-'  86  16  ~/test_line.py
+-'  59  23  ~/test_line.py
+-'  92  8  ~/test_line.py
+-'  24  14  ~/test_line.py
+-'  90  12  ~/test_line.py
+-'  101  14  ~/test_line.py
+-'  65  23  ~/test_line.py
+-'  64  23  ~/test_line.py
+-'  69  0  ~/test_line.py
+-'  1  0  ~/test_line.py
+-'  86  16  ~/test_line.py
+-'  59  23  ~/test_line.py
+-'  92  8  ~/test_line.py
+-'  24  14  ~/test_line.py
+-'  90  12  ~/test_line.py
+-'  101  14  ~/test_line.py
+-'  65  23  ~/test_line.py
+-'  64  23  ~/test_line.py
+-'  69  0  ~/test_line.py
+-'  1  0  ~/test_line.py
+-'  86  16  ~/test_line.py
+-'  59  23  ~/test_line.py
+-'  92  8  ~/test_line.py
+-'  24  14  ~/test_line.py
+-'  90  12  ~/test_line.py
+-'  101  14  ~/test_line.py
+-'  65  23  ~/test_line.py
+-'  64  23  ~/test_line.py
+-'  69  0  ~/test_line.py
+-'  1  0  ~/test_line.py
+-'  86  16  ~/test_line.py
+-'  59  23  ~/test_line.py
+-'  92  8  ~/test_line.py
+-'  24  14  ~/test_line.py
+-'  90  12  ~/test_line.py
+-'  101  14  ~/test_line.py
+-'  65  23  ~/test_line.py
+-'  64  23  ~/test_line.py
+-'  69  0  ~/test_line.py
+-'  1  0  ~/test_line.py
+-'  86  16  ~/test_line.py
+-'  59  23  ~/test_line.py
+-'  92  8  ~/test_line.py
+-'  24  14  ~/test_line.py
+-'  90  12  ~/test_line.py
+
+# 文件内的标记历史记录 (从新到旧):
+
+> ~/Calc_test.py
+	"	68	9
+	^	68	10
+	.	68	9
+	+	4	26
+	+	6	27
+	+	7	67
+	+	12	18
+	+	40	27
+	+	77	30
+	+	78	15
+	+	13	33
+	+	14	55
+	+	16	70
+	+	18	33
+	+	19	119
+	+	24	56
+	+	26	51
+	+	27	21
+	+	39	3
+	+	40	27
+	+	14	9
+	+	16	15
+	+	24	6
+	+	26	17
+	+	14	74
+	+	22	44
+	+	23	38
+	+	24	24
+	+	29	41
+	+	30	25
+	+	33	51
+	+	34	23
+	+	35	48
+	+	36	22
+	+	37	37
+	+	35	32
+	+	37	32
+	+	33	32
+	+	40	2
+	+	39	3
+	+	38	21
+	+	39	2
+	+	40	2
+	+	39	50
+	+	40	1
+	+	41	71
+	+	41	0
+	+	40	22
+	+	41	69
+	+	43	0
+	+	75	2
+	+	72	0
+	+	44	26
+	+	47	24
+	+	48	40
+	+	50	22
+	+	51	36
+	+	52	40
+	+	54	22
+	+	58	27
+	+	62	24
+	+	63	30
+	+	64	41
+	+	66	94
+	+	70	25
+	+	71	13
+	+	50	22
+	+	15	17
+	+	68	9
+
+> ~/test_line.py
+	"	69	0
+	^	86	17
+	.	86	16
+	+	5	20
+	+	6	24
+	+	10	25
+	+	11	46
+	+	13	26
+	+	14	13
+	+	11	21
+	+	14	50
+	+	18	14
+	+	19	25
+	+	21	19
+	+	22	45
+	+	24	20
+	+	25	20
+	+	102	0
+	+	28	15
+	+	29	47
+	+	30	0
+	+	3	37
+	+	32	0
+	+	33	22
+	+	35	41
+	+	37	61
+	+	38	30
+	+	39	37
+	+	40	44
+	+	42	22
+	+	45	29
+	+	47	25
+	+	50	16
+	+	51	24
+	+	53	24
+	+	54	35
+	+	56	1
+	+	58	25
+	+	59	48
+	+	62	117
+	+	64	16
+	+	65	23
+	+	1	8
+	+	72	24
+	+	73	35
+	+	74	65
+	+	77	38
+	+	82	0
+	+	76	1
+	+	77	0
+	+	79	1
+	+	80	0
+	+	82	22
+	+	83	23
+	+	86	33
+	+	87	35
+	+	90	25
+	+	92	23
+	+	93	50
+	+	102	0
+	+	94	24
+	+	100	33
+	+	101	14
+	+	90	12
+	+	49	5
+	+	92	7
+	+	59	23
+	+	86	16
